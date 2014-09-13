@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DemoCalculator</string>
+	<string name="input_wrong_end">Незаконченное выражение</string>
+	<string name="input_wrong_parentheses">Лишние скобки</string>
+	<string name="input_wrong">Некорректное выражение</string>
+	<string name="output_wrong">Невычисляемое выражение</string>
+
+</resources>
